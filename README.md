@@ -1,6 +1,5 @@
 ## Hello There, Welcome to My Github profile👋 
-
-
+<br>
 My name is Evangelia Psochiou and I have recently graduated from Coding Factory, a full-stack application program offered by the Athens University of Economics and Business.
 
 I am currently seeking a position as a Junior Software Developer.
