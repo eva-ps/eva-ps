@@ -1,9 +1,9 @@
 ## Hello!! 👋 
 
-My name is Evangelia Psochiou and I have recently graduated from Coding Factory, a full-stack application program offered by the Athens University of Economics and Business.
+My name is Evangelia Psochiou I came from an academic background in materials science and engineering and I made a career change after graduating from Coding Factory, a full-stack application program offered by the Athens University of Economics and Business.
 
-I am currently seeking a position as a Junior Software Developer.
 <br>
+Recently, I embarked on my journey in the field of programming as a junior software engineer.
 <br>
 
 ## Contact with me: 
