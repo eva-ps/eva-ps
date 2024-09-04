@@ -8,8 +8,7 @@ Recently, I started my journey in the programming field as a junior software eng
 
 <br>
 
-
-## Contact with me: 
+## 🌐 Socials:
 
 <div>
   <a href="https://www.linkedin.com/in/evangelia-psochiou-92376813a/" target="_blank">
@@ -20,6 +19,9 @@ Recently, I started my journey in the programming field as a junior software eng
 
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,hibernate,spring,js,nodejs,express,cs,angular,bootstrap,html,css,mongodb,mysql,sqlfigma&theme=light)](https://skillicons.dev)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eva-ps&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
 <div id="badges">
