@@ -14,7 +14,7 @@ Recently, I started my journey in the programming field as a junior software eng
 </div>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,hibernate,spring,js,nodejs,express,cs,angular,bootstrap,html,css,mongodb,mysql,sqlfigma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,hibernate,spring,js,nodejs,express,cs,angular,bootstrap,html,css,mongodb,mysql,androidstudio,sqlfigma&theme=light)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eva-ps&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
